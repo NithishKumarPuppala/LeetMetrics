@@ -50,8 +50,8 @@ padding: 0.4rem;
     cursor: pointer;
 }
 .circle {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     background: conic-gradient(#299f5d var(--progress-degree, 0%), #283a2e 0%);
     display: flex;
